@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package midtermreviewcodeforpartc;
 
 /**
  * A class that models a User for Uno Online.
  * The user has a name and a password.
- * @author dancye, 2019
+ * @author Matthew Szablowski
  */
 public class User 
 {
